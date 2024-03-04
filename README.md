@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **EXTJS**
 
-- 💬 Ask me about **Java, Devops or C**
+- 💬 Ask me about **Java, Javascript, DevOps or C**
 
 - 📫 How to reach me **immaculatekimani2@gmail.com**
 
