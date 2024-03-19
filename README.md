@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Immaculate Kimani</h1>
-<h3 align="center">A Software Developer and Quality Assurance Engineer</h3>
+<h3 align="center">A Quality Assurance Engineer and Software Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.indiedb.com/images/groups/1/25/24269/ezgif-3379767143.gif">
 [Watch the video](https://coderadio.freecodecamp.org/static/media/Saron3.cb9bbffcf0eaef69b98b.webm)
